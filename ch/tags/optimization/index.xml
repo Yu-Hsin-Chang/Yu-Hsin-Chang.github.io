@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization on YUHSIN&#39;s Blog</title>
+    <link>https://Yu-Hsin-Chang.github.io/ch/tags/optimization/</link>
+    <description>Recent content in Optimization on YUHSIN&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Yu-Hsin-Chang.github.io/ch/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brute Force Algorithm on Job Assignment</title>
+      <link>https://Yu-Hsin-Chang.github.io/ch/posts/brute-force-algorithm/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yu-Hsin-Chang.github.io/ch/posts/brute-force-algorithm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

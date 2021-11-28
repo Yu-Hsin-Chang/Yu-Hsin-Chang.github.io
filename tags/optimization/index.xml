@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization on YuHsin&#39;s Blog</title>
+    <link>https://Yu-Hsin-Chang.github.io/tags/optimization/</link>
+    <description>Recent content in Optimization on YuHsin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Yu-Hsin-Chang.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brute Force Algorithm on Job Assignment</title>
+      <link>https://Yu-Hsin-Chang.github.io/posts/brute-force-algorithm/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Yu-Hsin-Chang.github.io/posts/brute-force-algorithm/</guid>
+      <description>內文 hello world
+I am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joanI am joan
+一級標題    四級標題    This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</description>
+    </item>
+    
+  </channel>
+</rss>

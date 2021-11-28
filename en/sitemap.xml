@@ -2,12 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Yu-Hsin-Chang.github.io/posts/brute-force-algorithm/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/brute-force-algorithm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yu-Hsin-Chang.github.io/posts/brute-force-algorithm/"
+                />
+  </url><url>
+    <loc>https://Yu-Hsin-Chang.github.io/tags/optimization/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/optimization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yu-Hsin-Chang.github.io/tags/optimization/"
+                />
+  </url><url>
+    <loc>https://Yu-Hsin-Chang.github.io/posts/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yu-Hsin-Chang.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://Yu-Hsin-Chang.github.io/tags/python/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yu-Hsin-Chang.github.io/tags/python/"
+                />
+  </url><url>
+    <loc>https://Yu-Hsin-Chang.github.io/tags/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yu-Hsin-Chang.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://Yu-Hsin-Chang.github.io/</loc>
+    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yu-Hsin-Chang.github.io/"
+                />
+  </url><url>
     <loc>https://Yu-Hsin-Chang.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/categories/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,8 +97,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/css/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,8 +110,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/html/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,8 +123,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/markdown/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,8 +136,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/markdown-syntax/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,25 +145,12 @@
                 href="https://Yu-Hsin-Chang.github.io/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://Yu-Hsin-Chang.github.io/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Yu-Hsin-Chang.github.io/posts/"
-                />
-  </url><url>
     <loc>https://Yu-Hsin-Chang.github.io/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/series/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -96,44 +161,18 @@
     <loc>https://Yu-Hsin-Chang.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Yu-Hsin-Chang.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Yu-Hsin-Chang.github.io/tags/"
-                />
-  </url><url>
     <loc>https://Yu-Hsin-Chang.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Yu-Hsin-Chang.github.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Yu-Hsin-Chang.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Yu-Hsin-Chang.github.io/"
-                />
-  </url><url>
     <loc>https://Yu-Hsin-Chang.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/privacy/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,8 +184,8 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/rich-content/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -158,8 +197,8 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/shortcodes/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -171,8 +210,8 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/more-rich-content/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -184,8 +223,8 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/placeholder-text/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -197,8 +236,8 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/text/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -210,8 +249,8 @@
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/math-typesetting/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -223,8 +262,8 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/emoji/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -236,8 +275,8 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/emoji-support/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -249,8 +288,8 @@
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/categories/development/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -262,8 +301,8 @@
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/development/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -275,8 +314,8 @@
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/posts/hugo-coder-wiki/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -288,8 +327,8 @@
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/hugo/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -301,8 +340,8 @@
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/tags/themes/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -314,8 +353,8 @@
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/about/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -326,8 +365,8 @@
     <loc>https://Yu-Hsin-Chang.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/authors/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -338,8 +377,8 @@
     <loc>https://Yu-Hsin-Chang.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/contact/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -350,8 +389,8 @@
     <loc>https://Yu-Hsin-Chang.github.io/projects/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="https://Yu-Hsin-Chang.github.io/pt-br/projects/"
+                hreflang="ch"
+                href="https://Yu-Hsin-Chang.github.io/ch/projects/"
                 />
     <xhtml:link
                 rel="alternate"
